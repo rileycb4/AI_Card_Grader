@@ -1,0 +1,1 @@
+See Exploitation vs. Exploration - could be a good tool to create a percentage of likelihood that a card would grade a certain way, as opposed to actually giving a suggested grade
